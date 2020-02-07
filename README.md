@@ -1,2 +1,2 @@
-# hackerrank
-repo for hackerrank challenges
+# Hacker Rank
+Repo for hackerrank.com challenges.
